@@ -1,6 +1,6 @@
-#!/bin/bash
+#!/usr/local/bin/zsh
 
-BUNDLED_COMMANDS="${BUNDLED_COMMANDS:-cucumber heroku rackup rails rake rspec ruby shotgun spec spork}"
+BUNDLED_COMMANDS=(cucumber heroku rackup rails rake rspec ruby shotgun spec spork)
 
 ## Functions
 
