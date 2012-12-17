@@ -26,8 +26,8 @@ exec" to the beginning of common Ruby commands.
 
 For example:
 
-    $ curl -L https://github.com/gma/bundler-exec/raw/master/bundler-exec.sh > ~/.bundler-exec.sh
-    $ echo "[ -f ~/.bundler-exec.sh ] && source ~/.bundler-exec.sh" >> ~/.bashrc
+    $ curl -L https://github.com/STAR-ZERO/bundler-exec/raw/master/bundler-exec.sh > ~/.bundler-exec.sh
+    $ echo "[ -f ~/.bundler-exec.sh ] && source ~/.bundler-exec.sh" >> ~/.zshrc
 
 Er, that's it...
 
