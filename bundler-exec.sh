@@ -1,6 +1,6 @@
 #!/usr/local/bin/zsh
 
-BUNDLED_COMMANDS=(cucumber heroku rackup rails rake rspec ruby shotgun spec spork cap wheneverize whenever)
+BUNDLED_COMMANDS=(cucumber rackup rails rake rspec ruby shotgun spec spork cap wheneverize whenever)
 
 ## Functions
 
